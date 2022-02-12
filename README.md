@@ -7,3 +7,5 @@
 * Intro to Image Classification with Python and Keras - https://github.com/hasibzunair/whats-image-classifcation-really
 
 <img src="./media/meme.jpeg" width="300">
+
+Made with ❤️ by [Hasib Zunair](https://hasibzunair.github.io/)
