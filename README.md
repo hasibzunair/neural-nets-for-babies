@@ -1,4 +1,4 @@
-# Intro to neural networks
+# Intro to Deep Learning
 
 ## Related materials
 * Intro to Python - https://github.com/hasibzunair/ieee18-cv
