@@ -1,6 +1,6 @@
 # Intro to Deep Learning
 
-Materials are part of North South University (NSU) Intro to Deep Learning with PyTorch workshop series. [Slides](https://docs.google.com/presentation/d/12g8xcVWzFciWhhDCNo6SHZxYXJlZVoHtz2Bb2U_2WBE/edit?usp=sharing).
+Materials are part of North South University (NSU) Intro to Deep Learning with PyTorch workshop series. ([Slides](https://docs.google.com/presentation/d/12g8xcVWzFciWhhDCNo6SHZxYXJlZVoHtz2Bb2U_2WBE/edit?usp=sharing))
 
 ## Related materials
 * Intro to Python - https://github.com/hasibzunair/ieee18-cv
