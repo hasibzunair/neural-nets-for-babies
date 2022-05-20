@@ -8,6 +8,7 @@ Materials are part of North South University (NSU) Intro to Deep Learning with P
 * Intro to Image Processing and Computer Vision - https://github.com/hasibzunair/ieee18-cv
 * Intro to Image Classification with Python and Keras - https://github.com/hasibzunair/whats-image-classifcation-really
 * How to get started building vision systems - [Slides](https://docs.google.com/presentation/d/1qv7Lww9C9xgydvIYxzPBvugvEHsWnYYLyblXuP1HcPc/edit?usp=sharing)
+* [How does a neural net really work, Jeremy Howard](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
 
 <img src="./media/meme.jpeg" width="300">
 
