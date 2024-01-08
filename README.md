@@ -11,6 +11,7 @@ Materials are part of North South University (NSU) Intro to Deep Learning with P
 * Intro to Image Classification with Python and Keras - https://github.com/hasibzunair/whats-image-classifcation-really
 * How to get started building vision systems - [Slides](https://docs.google.com/presentation/d/1qv7Lww9C9xgydvIYxzPBvugvEHsWnYYLyblXuP1HcPc/edit?usp=sharing)
 * [How does a neural net really work, Jeremy Howard](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
+* [Building a neural network from scratch (no Tensorflow/Pytorch, just numpy & math), Samson Zhang](https://youtu.be/w8yWXqWQYmU?si=9AMa7fto-zfZ09H-)
 
 <img src="./media/meme.jpeg" width="300">
 
